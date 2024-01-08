@@ -1,0 +1,89 @@
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormListaEmpresa.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormEliminarEmpresa.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormModificarEmpresa.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CopyComplete
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormEliminarEmpresa.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormListaEmpresa.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormModificarEmpresa.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CopyComplete
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormEliminarEmpresa.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormListaEmpresa.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormModificarEmpresa.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CopyComplete
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormEliminarEmpresa.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormListaEmpresa.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.FormModificarEmpresa.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb

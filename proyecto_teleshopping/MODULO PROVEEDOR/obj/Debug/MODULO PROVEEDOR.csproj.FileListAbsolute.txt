@@ -1,0 +1,96 @@
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormRegistrarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormListaProveedor.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormListaProveedor.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormListaProveedor.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormListaProveedor.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb

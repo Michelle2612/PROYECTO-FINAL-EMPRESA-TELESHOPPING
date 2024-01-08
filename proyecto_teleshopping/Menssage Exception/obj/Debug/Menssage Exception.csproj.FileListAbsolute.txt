@@ -1,0 +1,15 @@
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Menssage Exception\obj\Debug\Menssage Exception.pdb

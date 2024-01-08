@@ -1,0 +1,57 @@
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormEliminarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormModificarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormRegistrarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.AssemblyReference.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormEliminarProducto.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormModificarProducto.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormRegistrarProducto.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.Properties.Resources.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.GenerateResource.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CoreCompileInputs.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormCatalogoProductos.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormCatalogoProductos.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormEliminarProducto.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormModificarProducto.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormRegistrarOrden.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormRegistrarProducto.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.PlantillaProductos.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormListaProductos.resources

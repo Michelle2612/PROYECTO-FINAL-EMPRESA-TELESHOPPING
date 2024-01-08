@@ -1,0 +1,20 @@
+C:\Users\miche\source\repos\MODULO FACTURA\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\miche\source\repos\MODULO FACTURA\bin\Debug\MODULO FACTURA.exe
+C:\Users\miche\source\repos\MODULO FACTURA\bin\Debug\MODULO FACTURA.pdb
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO_FACTURA.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.exe
+C:\Users\miche\source\repos\MODULO FACTURA\obj\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\bin\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\bin\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO_FACTURA.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO FACTURA.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO FACTURA\obj\Debug\MODULO_FACTURA.FormFactura.resources

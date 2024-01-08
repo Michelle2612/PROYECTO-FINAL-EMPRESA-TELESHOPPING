@@ -1,0 +1,35 @@
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.AssemblyReference.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.FormRegistrarOrden.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.Properties.Resources.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.GenerateResource.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.FormRegistrarOrden.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.CopyComplete
