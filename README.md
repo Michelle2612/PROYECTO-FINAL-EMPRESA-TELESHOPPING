@@ -1,6 +1,8 @@
-#PROYECTO-FINAL-EMPRESA-TELESHOPPING
-#SISTEMA DE TELESHOPPING
-#Construcción de Software 6-2 #sistema de ventas por catalogo de celulares.
+PROYECTO-FINAL-EMPRESA-TELESHOPPING.
+
+SISTEMA DE TELESHOPPING.
+
+Construcción de Software 6-2 #sistema de ventas por catalogo de celulares.
 
 El sistema te permite crear un usuario sea cliente, proveedor o como entidad de empresa de transporte. Una vez creado tu usuario de tipo cliente te permite modificar tus datos personales o incluso eliminar tu registro. Una vez ingresado al sistema podras ir a la opcion de catalogo de productos y elegir tus productos y agregarlos a tu carro de compras donde se generara el valor a pagar de los productos, generas tu orden de compra y finalmente tu factura.
 
