@@ -26,7 +26,6 @@ FOREIGN KEY (id_proveedor) REFERENCES usuarios(id_usuario)
 
 SELECT *FROM USUARIOS
 select *from productos
-select * from usuarios where tipo_usuario = 'Cliente'
 ------------------------------------------------------------
 
 --CREAR LOS DATOS ALMACENADOS DE INGRESO DE USUARIO
@@ -116,24 +115,44 @@ END;
 
 go
 --DATOS ALMACENADOS PARA MODIFICAR DATOS DEL PRODUCTO
-CREATE procedure SP_ModificarProducto
+CREATE PROCEDURE SP_ModificarProducto
     @id_producto int,
-	@proveedor int,
+    @id_proveedor int, -- Cambiado a @id_proveedor
     @nombre_producto VARCHAR(70),
     @descripcion VARCHAR(100), 
     @cantidad FLOAT,
     @precio FLOAT,
     @total FLOAT,
     @imagen VARBINARY(MAX)
-as
-update productos set id_proveedor = @proveedor, nombre_producto = @nombre_producto, descripcion = @descripcion, cantidad = @cantidad, precio = @precio, total = @total where id_producto = @id_producto;
-GO
-
---ELIMINAR PRODUCTO
-CREATE PROCEDURE SP_EliminarProducto
-    @id int  
 AS
 BEGIN
-    DELETE FROM productos WHERE id_producto = @id; 
+    UPDATE productos 
+    SET id_proveedor = @id_proveedor, -- Modificado a @id_proveedor
+        nombre_producto = @nombre_producto, 
+        descripcion = @descripcion, 
+        cantidad = @cantidad, 
+        precio = @precio, 
+        total = @total 
+    WHERE id_producto = @id_producto;
+END;
+
+go
+--ELIMINAR PRODUCTO
+CREATE PROCEDURE SP_EliminarProducto
+    @id int
+AS
+BEGIN
+    -- Verificar si el producto está referenciado en la tabla de usuarios
+    IF NOT EXISTS (SELECT 1 FROM usuarios WHERE id_usuario = @id)
+    BEGIN
+        -- Si no hay referencias, eliminar el producto
+        DELETE FROM productos WHERE id_producto = @id;
+        PRINT 'Producto eliminado correctamente.';
+    END
+    ELSE
+    BEGIN
+        -- Si hay referencias, mostrar un mensaje indicando que no se puede eliminar
+        PRINT 'No se puede eliminar el producto. Está siendo utilizado por usuarios.';
+    END
 END;
 

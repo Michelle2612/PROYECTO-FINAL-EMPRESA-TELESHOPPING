@@ -77,3 +77,22 @@ C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO USUARIO\
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO CLIENTE.csproj.CopyComplete
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO USUARIO.exe
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO USUARIO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\MODULO USUARIO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\MODULO USUARIO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO CLIENTE.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormEliminarUsuario.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormListaCliente.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormModificarUsuario.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO_USUARIO.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO CLIENTE.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO CLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO CLIENTE.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO USUARIO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\MODULO USUARIO\obj\Debug\MODULO USUARIO.pdb

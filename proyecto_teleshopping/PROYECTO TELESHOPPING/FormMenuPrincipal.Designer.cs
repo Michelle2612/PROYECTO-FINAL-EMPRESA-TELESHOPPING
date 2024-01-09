@@ -85,7 +85,8 @@
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(12, 583);
+            this.lblNombre.ForeColor = System.Drawing.SystemColors.ControlDark;
+            this.lblNombre.Location = new System.Drawing.Point(3, 541);
             this.lblNombre.Name = "lblNombre";
             this.lblNombre.Size = new System.Drawing.Size(46, 17);
             this.lblNombre.TabIndex = 9;

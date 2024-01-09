@@ -16,6 +16,7 @@ namespace MODULO_PROVEEDOR
 {
     public partial class FormListaProveedor : Form
     {
+        private DataTable productosDataTable;
         private DataRow selectedDataRow;
         /*Llamamos la clase que tiene la conexion de datos*/
         Dato_ts datos = new Dato_ts();
@@ -51,6 +52,11 @@ namespace MODULO_PROVEEDOR
                 /*agregamos nuestro metodo para visualizarlo en el dataGridView*/
                 dataProveedor.DataSource = datos.ListaDeUsuariosProveedor();
                 dataProveedor.CellEndEdit += dataProveedor_CellEndEdit;
+
+                productosDataTable = datos.ListaDeUsuariosCliente();
+
+                // Configura el DataGridView
+                dataProveedor.DataSource = productosDataTable;
             }
 
             catch (Exception ex)
@@ -142,6 +148,39 @@ namespace MODULO_PROVEEDOR
             {
                 MessageBox.Show("Por favor, selecciona una fila antes de hacer clic en Eliminar.");
             }
+        }
+
+        private void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+            string searchTerm = txtBuscar.Text.ToLower();
+
+            // Filtra los resultados en base al término de búsqueda
+            DataView dv = new DataView(productosDataTable);
+
+            // Utiliza el RowFilter para filtrar por nombre_producto
+            dv.RowFilter = $"CONVERT(nombre_completo, 'System.String') LIKE '%{searchTerm}%'";
+
+            // Actualiza el origen de datos del DataGridView con los resultados filtrados
+            dataProveedor.DataSource = dv;
+        }
+
+        private void txtBuscar_Enter(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "BUSCAR")
+            {
+                txtBuscar.Text = "";
+                txtBuscar.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtBuscar_Leave(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "" && !txtBuscar.Focused)
+            {
+                txtBuscar.Text = "BUSCAR";
+                txtBuscar.ForeColor = Color.DarkGray;
+            }
+
         }
     }
 }

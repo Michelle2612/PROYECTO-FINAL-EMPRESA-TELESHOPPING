@@ -15,6 +15,7 @@ namespace MODULO_EMPRESA_DE_TRANSPORTE
 {
     public partial class FormListaEmpresa : Form
     {
+        private DataTable productosDataTable;
         private DataRow selectedDataRow;
         /*instanciamos la clase con la conexion */
         Dato_ts datos = new Dato_ts();
@@ -53,6 +54,10 @@ namespace MODULO_EMPRESA_DE_TRANSPORTE
                 dataEmpresa.DataSource = datos.ListaDeUsuariosEmpresa();
 
                 dataEmpresa.CellEndEdit += dataEmpresa_CellEndEdit;
+                productosDataTable = datos.ListaDeUsuariosEmpresa();
+
+                // Configura el DataGridView
+                dataEmpresa.DataSource = productosDataTable;
             }
             /*excepciones controladas*/
             catch (Exception ex)
@@ -73,16 +78,16 @@ namespace MODULO_EMPRESA_DE_TRANSPORTE
                 DataGridViewRow editedRow = dataEmpresa.Rows[e.RowIndex];
                 DataGridViewCell editedCell = editedRow.Cells[e.ColumnIndex];
 
-                // Obtener la columna actual y el nombre de la columna.
+                // Obtiene la columna actual y el nombre de la columna.
                 string columnName = dataEmpresa.Columns[e.ColumnIndex].Name;
 
-                // Obtener la clave primaria de la fila.
+                // Obtiene la clave primaria de la fila.
                 int idUsuario = Convert.ToInt32(editedRow.Cells["id_usuario"].Value);
 
-                // Obtener el nuevo valor editado por el usuario.
+                // Obtiene el nuevo valor editado por el usuario.
                 string newValue = editedCell.Value.ToString();
 
-                // Realizar la actualización en la base de datos.
+                // Realiza la actualización en la base de datos.
                 ActualizarValorEnBaseDeDatos(idUsuario, columnName, newValue);
             }
         }
@@ -91,14 +96,14 @@ namespace MODULO_EMPRESA_DE_TRANSPORTE
         {
             if (selectedDataRow != null)
             {
-                // Aplicar los cambios a la base de datos.
+                // Aplica los cambios a la base de datos.
                 ActualizarValorEnBaseDeDatos(Convert.ToInt32(selectedDataRow["id_usuario"]), "nombre_completo", selectedDataRow["nombre_completo"].ToString());
                 ActualizarValorEnBaseDeDatos(Convert.ToInt32(selectedDataRow["id_usuario"]), "usuario", selectedDataRow["usuario"].ToString());
                 ActualizarValorEnBaseDeDatos(Convert.ToInt32(selectedDataRow["id_usuario"]), "correo", selectedDataRow["correo"].ToString());
                 ActualizarValorEnBaseDeDatos(Convert.ToInt32(selectedDataRow["id_usuario"]), "contrasena", selectedDataRow["contrasena"].ToString());
                 ActualizarValorEnBaseDeDatos(Convert.ToInt32(selectedDataRow["id_usuario"]), "tipo_usuario", selectedDataRow["tipo_usuario"].ToString());
 
-                // Refrescar el DataGridView para ver los cambios.
+                // Refresca el DataGridView para ver los cambios.
                 dataEmpresa.DataSource = datos.ListaDeUsuariosEmpresa();
 
                 MessageBox.Show("Datos modificados correctamente.");
@@ -138,6 +143,38 @@ namespace MODULO_EMPRESA_DE_TRANSPORTE
             else
             {
                 MessageBox.Show("Por favor, selecciona una fila antes de hacer clic en Eliminar.");
+            }
+        }
+
+        private void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+            string searchTerm = txtBuscar.Text.ToLower();
+
+            // Filtra los resultados en base al término de búsqueda
+            DataView dv = new DataView(productosDataTable);
+
+            // Utiliza el RowFilter para filtrar por nombre_producto
+            dv.RowFilter = $"CONVERT(nombre_completo, 'System.String') LIKE '%{searchTerm}%'";
+
+            // Actualiza el origen de datos del DataGridView con los resultados filtrados
+            dataEmpresa.DataSource = dv;
+        }
+
+        private void txtBuscar_Enter(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "BUSCAR")
+            {
+                txtBuscar.Text = "";
+                txtBuscar.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtBuscar_Leave(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "" && !txtBuscar.Focused)
+            {
+                txtBuscar.Text = "BUSCAR";
+                txtBuscar.ForeColor = Color.DarkGray;
             }
         }
     }

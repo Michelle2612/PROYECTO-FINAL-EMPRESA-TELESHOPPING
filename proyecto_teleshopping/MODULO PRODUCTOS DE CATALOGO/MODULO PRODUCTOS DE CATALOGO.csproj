@@ -192,5 +192,8 @@
   <ItemGroup>
     <None Include="Resources\8333853_add_to_cart_trolley_shopping_icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

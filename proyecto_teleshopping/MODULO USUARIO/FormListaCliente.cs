@@ -16,6 +16,7 @@ namespace MODULO_USUARIO
 {
     public partial class FormListaCliente : Form
     {
+        private DataTable productosDataTable;
         private DataRow selectedDataRow;
         /*instanciamos la clase de conexion*/
         Dato_ts datos = new Dato_ts();
@@ -54,6 +55,10 @@ namespace MODULO_USUARIO
                 dataCliente.DataSource = datos.ListaDeUsuariosCliente();
                 /*concatenamos el evento de la tabla que edita*/
                 dataCliente.CellEndEdit += dataCliente_CellEndEdit;
+                productosDataTable = datos.ListaDeUsuariosCliente();
+
+                // Configura el DataGridView
+                dataCliente.DataSource = productosDataTable;
 
             }
             /*excepciones controladas*/
@@ -138,6 +143,38 @@ namespace MODULO_USUARIO
             else
             {
                 MessageBox.Show("Por favor, selecciona una fila antes de hacer clic en Eliminar.");
+            }
+        }
+
+        private void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+            string searchTerm = txtBuscar.Text.ToLower();
+
+            // Filtra los resultados en base al término de búsqueda
+            DataView dv = new DataView(productosDataTable);
+
+            // Utiliza el RowFilter para filtrar por nombre_producto
+            dv.RowFilter = $"CONVERT(nombre_completo, 'System.String') LIKE '%{searchTerm}%'";
+
+            // Actualiza el origen de datos del DataGridView con los resultados filtrados
+            dataCliente.DataSource = dv;
+        }
+
+        private void txtBuscar_Enter(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "BUSCAR")
+            {
+                txtBuscar.Text = "";
+                txtBuscar.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtBuscar_Leave(object sender, EventArgs e)
+        {
+            if (txtBuscar.Text == "" && !txtBuscar.Focused)
+            {
+                txtBuscar.Text = "BUSCAR";
+                txtBuscar.ForeColor = Color.DarkGray;
             }
         }
     }

@@ -142,3 +142,48 @@ C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Prueba Unitaria
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.csproj.CopyComplete
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.dll
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Prueba Unitaria.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Prueba Unitaria.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO USUARIO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO USUARIO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\Prueba Unitaria\obj\Debug\Prueba Unitaria.pdb

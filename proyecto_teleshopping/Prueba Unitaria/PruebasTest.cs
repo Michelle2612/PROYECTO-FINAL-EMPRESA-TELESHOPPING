@@ -3,6 +3,7 @@ using Menssage_Exception;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PROYECTO_TELESHOPPING;
 using System;
+using System.IO;
 using System.Windows.Forms;
 
 namespace Prueba_Unitaria
@@ -31,17 +32,38 @@ namespace Prueba_Unitaria
             Assert.IsFalse(false);
         }
 
+        /* Prueba busca usuario por correo y tipo de usuariario correcto*/
+        [TestMethod]
+        public void TestBuscaUsuario()
+        {
+            Dato_ts buscar = new Dato_ts();
+            string correo = "mich25@gmail.com";
+            string tipoUsuario = "Cliente";  
+            buscar.BuscarDatosPorCorreoUsuario(correo, tipoUsuario);
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba busca usuario por correo y tipo de usuariario incorrecto*/
+        [TestMethod]
+        public void TestBuscaUsuarioIncorrecto()
+        {
+            Dato_ts buscar = new Dato_ts();
+            string correo = "?";
+            string tipoUsuario = "?";
+            buscar.BuscarDatosPorCorreoUsuario(correo, tipoUsuario);
+            Assert.IsFalse(false);
+        }
         /* Prueba modificar usuario correcto*/
         [TestMethod]
         public void TestModificarUsuarios()
         {
             Dato_ts modificar = new Dato_ts();
             int id = 2;
-            string nombre = "Daniel Isaias Altamirano Almeida";
-            string usuario = "Dan";
-            string correo = "Daniel@hotmail.com";
-            string contrasena = "Dan123";
-            string tipo = "Cliente";
+            string nombre = "Daniel Altamirano";
+            string usuario = "daniel";
+            string correo = "daniel36@gmail.com";
+            string contrasena = "12345";
+            string tipo = "Proveedor";
             modificar.ModificarUsuarios(id,nombre, usuario,correo, contrasena, tipo);
             Assert.IsTrue(true);            
         }
@@ -78,6 +100,153 @@ namespace Prueba_Unitaria
             Dato_ts eliminar = new Dato_ts();
             int id = 0;
             eliminar.EliminarUsuario(id);
+            Assert.IsFalse(false);
+        }
+
+
+        /* Prueba eliminar producto correcto*/
+        [TestMethod]
+        public void TestElimnarProductoCorrecto()
+        {
+            Dato_ts eliminar = new Dato_ts();
+            int id = 17;
+            eliminar.EliminarProducto(id);
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba eliminar producto incorrecto*/
+        [TestMethod]
+        public void TestElimnarProductoIncorrecto()
+        {
+            Dato_ts eliminar = new Dato_ts();
+            int id = 0;
+            eliminar.EliminarProducto(id);
+            Assert.IsFalse(false);
+        }
+        /* Prueba busca producto por nombre correcto*/
+        [TestMethod]
+        public void TestBuscaProductoCorrecto()
+        {
+            Dato_ts buscar = new Dato_ts();
+            string nombre = "TCL 30";
+            buscar.BuscarDatosProductos(nombre);
+            Assert.IsTrue(true);
+        }
+        /* Prueba busca producto por nombre incorrecto*/
+        [TestMethod]
+        public void TestBuscaProductoIncorrecto()
+        {
+            Dato_ts buscar = new Dato_ts();
+            string nombre = "?";
+            buscar.BuscarDatosProductos(nombre);
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista cargada de proveedores*/
+        [TestMethod]
+        public void TestListaObtenerProveedores()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ObtenerListaProveedores();
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba de obtener lista cargada de proveedores incorrecto*/
+        [TestMethod]
+        public void TestListaObtenerProveedoresIncorrecto()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ObtenerListaProveedores();
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista cargada de empresa*/
+        [TestMethod]
+        public void TestListaObtenerEmpresa()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ObtenerListaEmpresa();
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba de obtener lista cargada de empresa incorrecta*/
+        [TestMethod]
+        public void TestListaObtenerEmpresaIncorrecta()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ObtenerListaEmpresa();
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista de cliente*/
+        [TestMethod]
+        public void TestListaCliente()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosCliente();
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba de obtener lista de cliente incorrecto*/
+        [TestMethod]
+        public void TestListaClienteIncorrecto()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosCliente();
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista de proveedores*/
+        [TestMethod]
+        public void TestListaProveedores()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosProveedor();
+            Assert.IsTrue(true);
+        }
+        /* Prueba de obtener lista de proveedores incorrecto*/
+        [TestMethod]
+        public void TestListaProveedoresIncorrecto()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosProveedor();
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista de empresa*/
+        [TestMethod]
+        public void TestListaEmpresa()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosEmpresa();
+            Assert.IsTrue(true);
+        }
+
+        /* Prueba de obtener lista de empresa incorrecto*/
+        [TestMethod]
+        public void TestListaEmpresaIncorrecto()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeUsuariosEmpresa();
+            Assert.IsFalse(false);
+        }
+
+        /* Prueba de obtener lista de productos*/
+        [TestMethod]
+        public void TestListaProductos()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeProductos();
+            Assert.IsTrue(true);
+        }
+
+
+        /* Prueba de obtener lista de productos incorrecto*/
+        [TestMethod]
+        public void TestListaProductosIncorrecto()
+        {
+            Dato_ts lista = new Dato_ts();
+            lista.ListaDeProductos();
             Assert.IsFalse(false);
         }
     }

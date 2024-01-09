@@ -337,18 +337,40 @@ namespace DATOS_TSP
         public void EliminarProducto(int id)
         {
             string conet = "SP_EliminarProducto";
-            /*llamamos la conexion de nuestro servidor*/
 
-            using (SqlCommand command = new SqlCommand(conet, conexion))
+            try
             {
-                /*se especifica los procediminetos almacenados para eliminar producto*/
-                command.CommandType = CommandType.StoredProcedure;
-                command.Parameters.AddWithValue("@id", id);
-                /*Abrimos la conexion de la base de datos y se ejecuta*/
                 AbrirConexion();
-                command.ExecuteNonQuery();
-            }
 
+                using (SqlTransaction transaction = conexion.BeginTransaction())
+                {
+                    try
+                    {
+                        using (SqlCommand command = new SqlCommand(conet, conexion, transaction))
+                        {
+                            command.CommandType = CommandType.StoredProcedure;
+                            command.Parameters.AddWithValue("@id", id);
+                            command.ExecuteNonQuery();
+                        }
+
+                        transaction.Commit();
+                        MessageBox.Show("Producto eliminado correctamente.");
+                    }
+                    catch (Exception ex)
+                    {
+                        transaction.Rollback();
+                        throw; // Propaga la excepción para manejarla en el método que llamó a EliminarProducto
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al abrir la conexión: " + ex.Message);
+            }
+            finally
+            {
+                CerrarConexion();
+            }
         }
         /*metodo que muestra la lista de productos en la tabla*/
         public DataTable ListaDeProductos()

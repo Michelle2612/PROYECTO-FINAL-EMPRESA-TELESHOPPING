@@ -52,3 +52,13 @@ C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\DATOS_TSP\obj\D
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.CopyComplete
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.exe
 C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\DATOS_TSP\obj\Debug\DATOS_TSP.pdb
